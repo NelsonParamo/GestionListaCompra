@@ -1,0 +1,10 @@
+IMPLEMENTACION LISTA DE LA COMPRA v1
+
+-Autores:   
+			NELSON PARAMO VALDIVIELSO
+			JOSEBA HERNANDO MOISEN
+
+-Videotutorial de uso de la aplicacion:
+			https://www.dropbox.com/s/fxs1eb1i9xti0o3/listaCompraJosebNelson.mov?dl=0
+
+
